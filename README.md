@@ -80,4 +80,3 @@ See [SETUP.md](SETUP.md) for detailed troubleshooting.
 
 **⚠️ Important:** Live environment executes real trades. Use demo for testing!
 
-**v1.0** - Using .env for secure credential management 🚀
