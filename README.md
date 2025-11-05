@@ -76,7 +76,6 @@ See [SETUP.md](SETUP.md) for detailed troubleshooting.
 - [Trading212 API Docs](https://docs.trading212.com/api)
 - [Docker MCP Toolkit](https://docs.docker.com/mcp/)
 
----
 
 **⚠️ Important:** Live environment executes real trades. Use demo for testing!
 
